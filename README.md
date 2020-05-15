@@ -30,7 +30,10 @@
 
                         <div class = "btn">
                           <a href='http://localhost:8080/azurro/index1.html'><button type="button" class="first-btn" >Enter information for apartment</button></a>
-                          <a href='http://localhost:8080/cars/enterid.php'><button type="button" class="second-btn">Check information for apartment</button></a>
+
+                          <a href='http://localhost:8080/cars/enterid.php'><button type="button" class="second-btn">Check2 information for apartment</button></a>
+
+                        
                         </div>
 
                 </div>   
