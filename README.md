@@ -17,8 +17,8 @@ include_once 'azurroheader.php';
                         </div>
 
                         <div class = "btn">
-                          <a href='http://localhost:8080/azurro/azurropassword.php'><button type="button" class="first-btn" >Enter information for apartment</button></a>
-                          <a href='http://localhost:8080/azurro/azurrocheck.php'><button type="button" class="second-btn">Check information for apartment</button></a>
+                          <a href="<?php echo base_url()?>azurropassword.php"><button type="button" class="first-btn" >Enter information for apartment</button></a>
+                          <a href="<?php echo base_url()?>azurrocheck.php"><button type="button" class="second-btn">Check information for apartment</button></a>
                         </div>
 
                        <div class = "mainpic">
@@ -46,4 +46,3 @@ include_once 'azurroheader.php';
 <?php
 include_once 'azurrofooter.php';
 ?>
-
