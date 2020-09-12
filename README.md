@@ -20,17 +20,21 @@ include_once 'azurroheader.php';
                           <a href="<?php echo base_url()?>azurropassword.php"><button type="button" class="first-btn" >Enter information for apartment</button></a>
                           <a href="<?php echo base_url()?>azurrocheck.php"><button type="button" class="second-btn">Check information for apartment</button></a>
                         </div>
-
+                        
                        <div class = "mainpic">
+                       
                             <div class = "mainpic1">
+                            <h4>Pics : </h4>
                                     <img src="galery/august.jpg" alt="azurro1" width="272px" height="200px">
                             </div>
                             
                             <div class = "mainpic2">
+                            <h4>Pics : </h4>
                                     <img src="galery/august1.jpg" alt="azurro2" width="272px" height="200px">
                             </div>
 
                             <div class = "mainpic3">
+                            <h4>Pics : </h4>
                                     <img src="galery/august2.jpg" alt="azurro3" width="272px" height="200px">
                             </div>
                             
@@ -46,3 +50,4 @@ include_once 'azurroheader.php';
 <?php
 include_once 'azurrofooter.php';
 ?>
+
